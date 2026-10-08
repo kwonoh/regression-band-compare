@@ -1,0 +1,8 @@
+{
+  "name": "regression-band-compare",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "compare": "node compare.js"
+  }
+}
